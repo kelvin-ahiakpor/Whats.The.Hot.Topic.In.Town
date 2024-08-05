@@ -28,7 +28,7 @@ Link to interactive app: [Interactive App](https://whats-the-hot-topic-in-town.s
 6. If scraping is taking a while, please hang on.
 7. Thank you
 
-### Setup (For local hosting)
+### Setup
 1. Ensure you have the following libraries installed:  
 `tensorflow`   
 `opencv-python`  
