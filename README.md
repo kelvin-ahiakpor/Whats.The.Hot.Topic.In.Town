@@ -58,10 +58,10 @@ You may use the following command:
 - **Deploy Functional App:** Use Streamlit to build an interactive and responsive web application.
 
 ### Technology Stack
-**Python**: Main programming language.  
-**Requests & BeautifulSoup**: For scraping web content.  
-**Sqlite3**: For interacting with the SQL database.  
-**Transformers**: For applying natural language processing tasks.  
+- **Python**: Main programming language.  
+- **Requests & BeautifulSoup**: For scraping web content.  
+- **Sqlite3**: For interacting with the SQL database.  
+- **Transformers**: For applying natural language processing tasks.  
 
 ### Notebooks
 The notebooks used to execute this project are in the repository. They are split into 5 phases, however, you may read the integrated version. Also, feel free to view the project proposal and rubric.
