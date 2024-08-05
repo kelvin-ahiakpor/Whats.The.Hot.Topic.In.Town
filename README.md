@@ -1,3 +1,4 @@
+![Banner](https://github.com/nammmx/nammmx.github.io/blob/main/pictures/environmental-scraper.jpg)
 # What's The Hot Topic in Topic Town?
 ## Information Retrieval & Natural Language Processing
 A deep learning project to find trending news in African countries
@@ -11,8 +12,9 @@ A deep learning project to find trending news in African countries
 
 ### Overview
 This project addresses the rampant spread of misinformation and disinformation through credible news reporting using Natural Language Processing (NLP) and Hugging Face Transformers. It aims to provide verified, insightful, and tailored information by analyzing news and understanding underlying sentiments. 
+This project automates the extraction, summarization from "All Africa", storing all scraped news data in an SQLLite3 database. It is designed to provide on-the-go accessible news reporting to individuals, journalists, and social trend enthusiasts with trending news topics in African countries.
 ### Application Demo
-Link to application demo: [App Video Demo](https://www.youtube.com/watch?v=0HMjTxKRbaI) 
+Link to application demo: [App Video Demo](https://youtu.be/g32Ly-Z1nrk) 
 
 ### Interactive app link
 Link to interactive app: [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/)
@@ -56,10 +58,10 @@ You may use the following command:
 - **Deploy Functional App:** Use Streamlit to build an interactive and responsive web application.
 
 ### Technology Stack
-Python: Main programming language.  
-Requests & Scrapy: For scraping web content.  
-Sqlite3: For interacting with the SQL database.  
-Transformers: For applying natural language processing tasks.  
+**Python**: Main programming language.  
+**Requests & BeautifulSoup**: For scraping web content.  
+**Sqlite3**: For interacting with the SQL database.  
+**Transformers**: For applying natural language processing tasks.  
 
 ### Notebooks
 The notebooks used to execute this project are in the repository. They are split into 5 phases, however, you may read the integrated version. Also, feel free to view the project proposal and rubric.
