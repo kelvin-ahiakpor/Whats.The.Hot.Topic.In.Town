@@ -1,4 +1,4 @@
-![Banner](https://github.com/nammmx/nammmx.github.io/blob/main/pictures/environmental-scraper.jpg)
+![Banner](https://github.com/kelvin-ahiakpor/kelvin-ahiakpor.github.io/blob/main/images/hottopic1.png)
 # What's The Hot Topic in Topic Town?
 ## Information Retrieval & Natural Language Processing
 A deep learning project to find trending news in African countries
