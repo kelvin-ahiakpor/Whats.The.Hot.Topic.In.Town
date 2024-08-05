@@ -70,6 +70,7 @@ The notebooks used to execute this project are in the repository. They are split
 Dr. Tatenda Kavu   
 Kweku Yamoah   
 Silas Sangmin 
+![Banner](https://github.com/kelvin-ahiakpor/kelvin-ahiakpor.github.io/blob/main/images/hottopic2.png)
 
 
 
