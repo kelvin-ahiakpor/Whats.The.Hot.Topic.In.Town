@@ -20,7 +20,7 @@ Link to application demo: [App Video Demo](https://youtu.be/g32Ly-Z1nrk)
 Link to interactive app: [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/)
 
 ### How to run
-1. Ensure a strong and stable internet connection, you may follow the setup first for local hosting here [here](#Setup)
+1. Ensure a strong and stable internet connection, you may follow the setup first for local hosting [here](#Setup)
 2. Click the link to open the [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/). If the app is asleep, gently wake it up, otherwise reboot the app!
 3. Navigate to the drop down list, click `SEARCH` and type your African country
 4. Wait about 2 minutes to get news, sentiment analysis and summaries.
