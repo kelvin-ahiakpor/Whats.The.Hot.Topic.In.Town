@@ -27,7 +27,7 @@ Link to interactive app: [Interactive App](https://www.youtube.com/watch?v=0HMjT
 7. Thank you
 
 ### Setup (For local hosting)
-Ensure you have the following libraries installed:  
+1. Ensure you have the following libraries installed:  
 `tensorflow`   
 `opencv-python`  
 `pandas`   
@@ -35,14 +35,18 @@ Ensure you have the following libraries installed:
 `streamlit`   
 `scrapy`   
 `pycountry`   
-`twisted`   
+`beautifulsoup4`   
 `transformers`   
 `scikit-learn`   
 `torch`   
 `evaluate`  
 `accelerate`  
 You may use the following command:  
-`!pip install tensorflow opencv-python pandas numpy streamlit scrapy pycountry twisted transformers scikit-learn torch evaluate accelerate`
+`!pip install tensorflow opencv-python pandas numpy streamlit scrapy pycountry beautifulsoup4 transformers scikit-learn torch evaluate accelerate`
+2. Download the contents of this repository, specifically the `bert2bertMK` and `newsscraper` folders and store in a folder, ex. `Hot Topics`
+3. Open a terminal at the folder you stored and use this command `streamlit run home.py`
+4. For mac users, edit all relative directories in the home.py with `./` to `../`
+5. Enjoy finding the hot topics in your town.
 
 ### Features
 - **Web Scraping:** Scrape news AllAfrica
@@ -56,6 +60,14 @@ Python: Main programming language.
 Requests & Scrapy: For scraping web content.  
 Sqlite3: For interacting with the SQL database.  
 Transformers: For applying natural language processing tasks.  
+
+### Notebooks
+The notebooks used to execute this project are in the repository. They are split into 5 phases, however, you may read the integrated version. Also, feel free to view the project proposal and rubric.
+
+### Special Thanks
+Dr. Tatenda Kavu
+Kweku Yamoah
+Silas Sangmin
 
 
 
