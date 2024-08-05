@@ -15,7 +15,8 @@ choice = st.sidebar.selectbox("Menu", menu)
 st.sidebar.title("About")
 st.sidebar.info(
     """
-     This app informs users about the hottest trending topics in their country and provides sentiment analysis and concise summaries.Users can access the original articles as well.
+    This app informs users about the hottest trending topics in their country and provides sentiment analysis and concise summaries.  
+    Users can access the original articles as well.  
     GitHub: [What'sTheHotTopicInTown?](https://github.com/kelvin-ahiakpor/Whats.The.Hot.Topic.In.Town)
     """
 )
@@ -118,7 +119,8 @@ if choice == "SEARCH":
     scrape_button = st.button("Get Trending News")
 
     if scrape_button and country:
-        output = run_scrapy_script(country)
+        with st.spinner("Scraping news"):
+            output = run_scrapy_script(country)
         st.success("Scraping completed!")
         
 
