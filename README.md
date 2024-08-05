@@ -66,7 +66,7 @@ The notebooks used to execute this project are in the repository. They are split
 
 ### Special Thanks
 Dr. Tatenda Kavu   
-Kweku Yamoah 
+Kweku Yamoah   
 Silas Sangmin 
 
 
