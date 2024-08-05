@@ -15,7 +15,7 @@ This project addresses the rampant spread of misinformation and disinformation t
 Link to application demo: [App Video Demo](https://www.youtube.com/watch?v=0HMjTxKRbaI) 
 
 ### Interactive app link
-Link to interactive app: [Interactive App](https://www.youtube.com/watch?v=0HMjTxKRbaI)
+Link to interactive app: [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/)
 
 ### How to run
 1. Ensure a strong and stable internet connection, you may follow the setup first for local hosting here [here](#Setup)
