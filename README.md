@@ -19,10 +19,10 @@ Link to interactive app: [Interactive App](https://www.youtube.com/watch?v=0HMjT
 
 ### How to run
 1. Ensure a strong and stable internet connection, you may follow the setup first for local hosting here [here](#Setup)
-2. Click the link to open the [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/). If the app is asleep, gently wake it up.
+2. Click the link to open the [Interactive App](https://whats-the-hot-topic-in-town.streamlit.app/). If the app is asleep, gently wake it up, otherwise reboot the app!
 3. Navigate to the drop down list, click `SEARCH` and type your African country
 4. Wait about 2 minutes to get news, sentiment analysis and summaries.
-5. Note, the more vibrant your country is, the more likely it is that we will have to process more data.
+5. Note, the more news your country has, the more likely it is that we will have to process more data.
 6. If scraping is taking a while, please hang on.
 7. Thank you
 
@@ -65,9 +65,9 @@ Transformers: For applying natural language processing tasks.
 The notebooks used to execute this project are in the repository. They are split into 5 phases, however, you may read the integrated version. Also, feel free to view the project proposal and rubric.
 
 ### Special Thanks
-Dr. Tatenda Kavu
-Kweku Yamoah
-Silas Sangmin
+Dr. Tatenda Kavu   
+Kweku Yamoah 
+Silas Sangmin 
 
 
 
