@@ -75,8 +75,7 @@ if choice == "SEARCH":
         return model, tokenizer
 
 
-    # Example usage
-    output_file_path = '../bert2bertMK/reassembled_model.safetensors'  # Path for the reassembled model
+    output_file_path = './bert2bertMK/reassembled_model.safetensors'  # Path for the reassembled model
     chunk_prefix = 'model.safetensors_chunk_'
 
 
